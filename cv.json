@@ -22,7 +22,7 @@
       },
       {
         "network": "GitHub",
-        "username": "midudev",
+        "username": "jpalomarbl",
         "url": "https://github.com/jpalomarbl"
       }
     ]
@@ -31,6 +31,7 @@
     {
       "name": "Instituto de Productos Lácteos de Asturias IPLA-CSIC",
       "position": "Desarrollador web Full Stack",
+      "url": "",
       "startDate": "2025-07-15",
       "endDate": "2026-07-15",
       "summary": "Desarrollo desde cero de aplicaciones web complejas para la gestión de equipos y personal de investigación. Desarrollo web tanto con Vanilla JS como en el framework Angular de JavaScript.",
@@ -39,12 +40,14 @@
     {
       "name": "Grupo Innovaris Consultores",
       "position": "Desarrollador web Full Stack",
+      "url": "",
       "startDate": "2023-01-01",
       "endDate": "2023-05-01",
       "summary": "Desarrollo y mantenimiento de nuevas funcionalidades para una aplicación web de consultoría para empresas. Desarrollo web en el framework de JavaScript Nuxt.js.",
       "highlights": ["Desarrollo en equipo multidisciplinar"]
     }
   ],
+  "volunteer": [],
   "education": [
     {
       "institution": "Universitat Oberta de Catalunya",
@@ -63,6 +66,9 @@
       "score": "7.8"
     }
   ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
   "skills": [
     {
       "name": "HTML",
@@ -171,10 +177,12 @@
       "keywords": ["Composition", "Production"]
     }
   ],
+  "references": [],
   "projects": [
     {
       "name": "Sitio web personal",
       "isActive": true,
+      "github": "",
       "description": "Se trata de un ejercicio de diseño web basado en pósters",
       "highlights": ["CV", "Información personal", "Ejercicio de diseño"],
       "url": "https://mars.codes"
