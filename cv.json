@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jaime Simeón Palomar Blumenthal",
     "label": "Desarrollador web Full Stack con experiencia en equipos multidisciplinares.",
-    "image": "/me.jpeg",
+    "image": "../me.jpeg",
     "email": "palomarblumenthaljaimesimeon@gmail.com",
     "phone": "+34 629468536",
     "url": "https://midu.dev",
